@@ -2,8 +2,7 @@
 draft = true
 
 +++
-
-!\[SDx Logo\](
+!\[SDx Logo\](black.png)
 
 # SDx-Solutions in Digital X
 
