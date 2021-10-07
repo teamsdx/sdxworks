@@ -2,3 +2,5 @@
 label: single
 hide_body: false
 fields: []
+pages:
+- content/home.md
